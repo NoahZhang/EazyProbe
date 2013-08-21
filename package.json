@@ -1,0 +1,17 @@
+{
+  "name": "EazyProbe",
+  "version": "0.0.1",
+  "description": "Server and process monitor.",
+  "main": "eazyprobe.js",
+  "dependencies": {
+    "axon": "~0.6.1"
+  },
+  "devDependencies": {},
+  "keywords":[
+    "monit",
+    "server monitor",
+    "process monitor"
+  ],
+  "author": "NoahZhang",
+  "license": "BSD"
+}
