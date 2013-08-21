@@ -1,7 +1,7 @@
 {
   "name": "eazyprobe",
   "version": "0.0.1",
-  "description": "Server and process monitor.",
+  "description": "EazyProbe is a probe for linux server and process monitor base on Axon.",
   "main": "eazyprobe.js",
   "dependencies": {
     "axon": "~0.6.1"
@@ -13,5 +13,5 @@
     "process monitor"
   ],
   "author": "NoahZhang",
-  "license": "BSD"
+  "license": "MIT"
 }
