@@ -4,4 +4,4 @@
   
 ## Installation
 
-  $ npm install eazyprobe
+    $ npm install eazyprobe
