@@ -1,5 +1,5 @@
 {
-  "name": "EazyProbe",
+  "name": "eazyprobe",
   "version": "0.0.1",
   "description": "Server and process monitor.",
   "main": "eazyprobe.js",
