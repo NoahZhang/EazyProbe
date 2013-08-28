@@ -23,7 +23,3 @@ EazyProbe.prototype.StartMonit = function(){
     dispatcher.queryDispatcher(task, reply);
   });
 }
-
-var eazyProbe = new EazyProbe();
-
-eazyProbe.StartMonit();
